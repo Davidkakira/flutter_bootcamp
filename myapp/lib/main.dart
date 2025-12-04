@@ -2,7 +2,6 @@ import 'package:flutter/material.dart ';
 import 'package:myapp/pages/contact.dart';
 import 'package:myapp/pages/meteo.dart';
 import 'package:myapp/pages/music.dart';
-
 import 'package:myapp/pages/accueil.dart';
 
 void main() {
